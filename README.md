@@ -15,6 +15,10 @@
 
 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [Why you should do an open-source project?](https://medium.com/@spywhere/why-you-should-do-a-open-source-project-737545efff5f?source=rss-4e41bb0c6f4c------2)
+- [Wireless Ad-hoc iOS Application Deployment on Dropbox](https://medium.com/@spywhere/wireless-ad-hoc-ios-application-deployment-on-dropbox-94d291b4e4c1?source=rss-4e41bb0c6f4c------2)
+- [Evolution of Atom language](https://medium.com/@spywhere/evolution-of-atom-language-306d3b38ac45?source=rss-4e41bb0c6f4c------2)
+- [Keywords: Why we need it? Can’t we live without it?](https://medium.com/@spywhere/keywords-why-we-need-it-can-t-we-live-without-it-5b70be049500?source=rss-4e41bb0c6f4c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"> 

@@ -6,6 +6,13 @@
 
 **This week I spent my time on**
 <!--START_SECTION:waka-->
+```text
+JavaScript   2 hrs 14 mins   ████████▓░░░░░░░░░░░░░░░░   35.06 % 
+Other        1 hr 20 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.96 % 
+JSON         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+VimL         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+YAML         25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+```
 <!--END_SECTION:waka-->
 
 **Some statistics**

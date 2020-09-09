@@ -13,3 +13,4 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://medium.com/feed/@spywhere"
+          commit_message: "chore(blog): update latest blog posts"

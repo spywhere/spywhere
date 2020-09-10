@@ -28,6 +28,10 @@ YAML         26 mins         █▒░░░░░░░░░░░░░░░
 - [Keywords: Why we need it? Can’t we live without it?](https://medium.com/@spywhere/keywords-why-we-need-it-can-t-we-live-without-it-5b70be049500?source=rss-4e41bb0c6f4c------2)
 <!-- BLOG-POST-LIST:END -->
 
+**Organization-based accounts**
+- Pomelo Fashion: @pmlo-sirisak-l
+- MobiLife: @sirisak-lu
+
 <p align="center"> 
 <a href="https://linkedin.com/in/spywhere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="spywhere" height="30" width="30" /></a>
 <a href="https://medium.com/@spywhere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@spywhere" height="30" width="30" /></a>

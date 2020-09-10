@@ -29,8 +29,8 @@ YAML         26 mins         █▒░░░░░░░░░░░░░░░
 <!-- BLOG-POST-LIST:END -->
 
 **Organization-based accounts**
-- Pomelo Fashion: @pmlo-sirisak-l
-- MobiLife: @sirisak-lu
+- Pomelo Fashion: [@pmlo-sirisak-l](https://github.com/pmlo-sirisak-l)
+- MobiLife: [@sirisak-lu](https://github.com/sirisak-lu)
 
 <p align="center"> 
 <a href="https://linkedin.com/in/spywhere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="spywhere" height="30" width="30" /></a>

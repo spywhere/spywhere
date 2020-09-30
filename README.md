@@ -7,11 +7,11 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Other        8 hrs 39 mins   ███████████░░░░░░░░░░░░░░   44.15 % 
-JavaScript   7 hrs 25 mins   █████████▒░░░░░░░░░░░░░░░   37.84 % 
-GraphQL      1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Cheetah      1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+JavaScript   11 hrs 1 min    █████████████░░░░░░░░░░░░   52.04 % 
+Other        6 hrs 48 mins   ████████░░░░░░░░░░░░░░░░░   32.17 % 
+Cheetah      1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+GraphQL      1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 <!--END_SECTION:waka-->
 

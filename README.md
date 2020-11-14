@@ -7,11 +7,11 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 29 mins   ████████████▒░░░░░░░░░░░░   49.45 % 
-VimL         2 hrs 31 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.76 % 
-Other        2 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Markdown     50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JavaScript   4 hrs 3 mins    ████████████░░░░░░░░░░░░░   48.26 % 
+VimL         2 hrs 31 mins   ███████▓░░░░░░░░░░░░░░░░░   30.03 % 
+Markdown     1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Other        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 <!--END_SECTION:waka-->
 

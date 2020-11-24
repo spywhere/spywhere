@@ -7,9 +7,9 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Bash         47 mins         ███████████████████▒░░░░░   76.94 % 
-VimL         7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-JavaScript   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Bash         47 mins         ████████████████████░░░░░   79.64 % 
+VimL         7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+JavaScript   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 ```
 <!--END_SECTION:waka-->
 

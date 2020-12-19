@@ -7,9 +7,8 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Bash     3 hrs 56 mins   █████████████████████░░░░   83.77 % 
-Other    42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Git      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Bash    35 mins         ████████████████████░░░░░   80.00 % 
+Other   8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.70 % 
 ```
 <!--END_SECTION:waka-->
 

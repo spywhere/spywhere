@@ -7,10 +7,11 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Bash       3 hrs 29 mins   ██████████████████████░░░   88.05 % 
-Markdown   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Other      10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Git        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Bash         3 hrs 34 mins   ████████████████▒░░░░░░░░   65.11 % 
+JavaScript   1 hr 15 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.99 % 
+Other        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Markdown     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 <!--END_SECTION:waka-->
 

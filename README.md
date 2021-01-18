@@ -7,11 +7,11 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Other        3 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.08 % 
-Bash         3 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-C#           3 hrs 5 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.85 % 
-VimL         2 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-PowerShell   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+VimL         3 hrs 42 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.43 % 
+C#           3 hrs 5 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.04 % 
+Bash         2 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Other        2 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+JavaScript   52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -33,10 +33,9 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-C#           2 hrs 47 mins   ███████████████████░░░░░░   76.01 % 
-Lua          45 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.69 % 
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+C#           2 hrs 45 mins   ███████████████████████░░   91.70 % 
+Lua          11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
 <!--END_SECTION:waka-->
 

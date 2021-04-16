@@ -33,7 +33,7 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-C#    1 hr 21 mins    █████████████████████████   99.41 % 
+Lua   2 mins          ██████████████████████▒░░   89.94 % 
 ```
 <!--END_SECTION:waka-->
 

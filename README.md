@@ -33,10 +33,8 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Scala        28 mins         ██████████████▒░░░░░░░░░░   57.77 % 
-Other        15 mins         ███████▓░░░░░░░░░░░░░░░░░   31.29 % 
-JavaScript   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-SQL          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+JavaScript   1 min           █████████████▓░░░░░░░░░░░   54.21 % 
+Other        1 min           ██████████▒░░░░░░░░░░░░░░   41.12 % 
 ```
 <!--END_SECTION:waka-->
 

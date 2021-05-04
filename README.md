@@ -33,8 +33,7 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 min           █████████████▓░░░░░░░░░░░   54.21 % 
-Other        1 min           ██████████▒░░░░░░░░░░░░░░   41.12 % 
+
 ```
 <!--END_SECTION:waka-->
 

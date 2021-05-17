@@ -33,9 +33,7 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   15 mins         ██████████████▒░░░░░░░░░░   57.70 % 
-C#           10 mins         █████████▒░░░░░░░░░░░░░░░   37.66 % 
-XML          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

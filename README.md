@@ -33,7 +33,10 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Bash    1 hr 19 mins    ███████████▒░░░░░░░░░░░░░   44.70 % 
+YAML    1 hr 12 mins    ██████████▒░░░░░░░░░░░░░░   41.05 % 
+Lua     21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Other   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -33,7 +33,7 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-YAML         1 min           ████████████████▓░░░░░░░░   67.19 % 
+
 ```
 <!--END_SECTION:waka-->
 

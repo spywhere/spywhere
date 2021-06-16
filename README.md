@@ -33,7 +33,8 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Scala   1 hr 2 mins     ███████████████████░░░░░░   76.04 % 
+Other   19 mins         ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
 ```
 <!--END_SECTION:waka-->
 

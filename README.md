@@ -33,8 +33,8 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Scala   1 hr 2 mins     ███████████████████░░░░░░   76.04 % 
-Other   19 mins         ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+Scala   1 hr 22 mins    ████████████████████▒░░░░   80.85 % 
+Other   19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.15 % 
 ```
 <!--END_SECTION:waka-->
 

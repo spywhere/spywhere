@@ -33,8 +33,9 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Scala   1 hr 22 mins    ████████████████████▒░░░░   80.85 % 
-Other   19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Bash    3 hrs 24 mins   █████████████████████▒░░░   85.57 % 
+Scala   20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Other   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 ```
 <!--END_SECTION:waka-->
 

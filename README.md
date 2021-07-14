@@ -33,11 +33,11 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Bash         9 hrs 19 mins   ███████████████▒░░░░░░░░░   60.82 % 
-Other        1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Markdown     1 hr 36 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-C#           1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Git Config   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Bash         8 hrs 56 mins   ████████████████▒░░░░░░░░   65.49 % 
+Other        2 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Markdown     1 hr 36 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Git Config   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Lua          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 ```
 <!--END_SECTION:waka-->
 

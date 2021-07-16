@@ -33,11 +33,11 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Bash         8 hrs 56 mins   ████████████████░░░░░░░░░   64.22 % 
-Other        2 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Markdown     1 hr 36 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-SQL          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Git Config   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Bash         8 hrs 56 mins   ██████████████▓░░░░░░░░░░   58.15 % 
+Other        2 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+SQL          1 hr 52 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Markdown     1 hr 36 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Git Config   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 <!--END_SECTION:waka-->
 

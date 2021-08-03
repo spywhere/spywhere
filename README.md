@@ -33,8 +33,9 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Lua    1 hr 43 mins    ████████████████████████░   96.47 % 
-Bash   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+C#     17 mins         ████████████████░░░░░░░░░   63.76 % 
+Lua    9 mins          ████████░░░░░░░░░░░░░░░░░   32.10 % 
+Bash   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 ```
 <!--END_SECTION:waka-->
 

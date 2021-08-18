@@ -1,6 +1,13 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sirisak Lueangsaksri</h1>
 <h3 align="center">API software engineer that keen on workflow optimization. Love to work with the latest technologies and contribute to OSS community.</h3>
 
+**My daily drivers**
+- [neovim](https://github.com/neovim/neovim)
+- [tmux](https://github.com/tmux/tmux)
+- [zsh](https://github.com/zsh-users/zsh) with [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+- [kitty](https://github.com/kovidgoyal/kitty)
+- [And more](https://github.com/spywhere/dotfiles)...
+
 **Technologies I'm exposed with**
 <p align="center">
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>

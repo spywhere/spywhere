@@ -40,8 +40,9 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Scala   2 mins          █████████████▓░░░░░░░░░░░   54.21 % 
-Bash    1 min           ████████▓░░░░░░░░░░░░░░░░   34.70 % 
+C#      11 mins         █████████▓░░░░░░░░░░░░░░░   38.14 % 
+Other   10 mins         ████████▓░░░░░░░░░░░░░░░░   35.10 % 
+Bash    7 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.38 % 
 ```
 <!--END_SECTION:waka-->
 

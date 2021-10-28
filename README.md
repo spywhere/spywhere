@@ -40,11 +40,11 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Lua          2 hrs 46 mins   ████████▓░░░░░░░░░░░░░░░░   34.72 % 
-Bash         2 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.48 % 
-JavaScript   1 hr 14 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Python       41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Markdown     38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Lua          5 hrs 25 mins   ███████████░░░░░░░░░░░░░░   44.02 % 
+Bash         2 hrs 55 mins   ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+JavaScript   1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+VimL         53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Python       41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 ```
 <!--END_SECTION:waka-->
 

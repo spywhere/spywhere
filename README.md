@@ -40,11 +40,11 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 14 mins   █████████████████▒░░░░░░░   69.78 % 
-Other        22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-JSON         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Scala        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Markdown     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+JavaScript   2 hrs 38 mins   ██████████████████░░░░░░░   72.08 % 
+JSON         16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Scala        15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Markdown     14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 ```
 <!--END_SECTION:waka-->
 

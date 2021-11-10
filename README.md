@@ -40,9 +40,8 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-JSON         16 mins         ██████████▓░░░░░░░░░░░░░░   43.27 % 
-Scala        15 mins         ██████████▓░░░░░░░░░░░░░░   42.25 % 
-JavaScript   5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+JSON    16 mins         ████████████▓░░░░░░░░░░░░   50.59 % 
+Scala   15 mins         ████████████▒░░░░░░░░░░░░   49.41 % 
 ```
 <!--END_SECTION:waka-->
 

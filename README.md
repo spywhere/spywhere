@@ -40,7 +40,11 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-sh   2 mins          █████████████████████████   100.00 % 
+Lua          21 mins         █████████████▓░░░░░░░░░░░   54.09 % 
+HTML         9 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.83 % 
+JavaScript   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+YAML         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+sh           2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 ```
 <!--END_SECTION:waka-->
 

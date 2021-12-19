@@ -40,11 +40,11 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 30 mins   █████████████████▓░░░░░░░   71.08 % 
-TypeScript   27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-CSHTML       16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Lua          15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-VimL         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+JavaScript   1 hr 41 mins    █████████████▓░░░░░░░░░░░   55.19 % 
+TypeScript   27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+CSHTML       16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Lua          15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+VimL         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 ```
 <!--END_SECTION:waka-->
 

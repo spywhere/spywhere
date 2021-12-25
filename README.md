@@ -40,10 +40,7 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Lua          49 mins         ████████████████░░░░░░░░░   64.66 % 
-TypeScript   13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.62 % 
-VimL         8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Other        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Lua          37 mins         ████████████████████████▒   97.18 % 
 ```
 <!--END_SECTION:waka-->
 

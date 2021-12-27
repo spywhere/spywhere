@@ -40,7 +40,9 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Lua          37 mins         ████████████████████████▒   97.18 % 
+Lua          33 mins         ██████████▓░░░░░░░░░░░░░░   43.07 % 
+JSON         23 mins         ███████▓░░░░░░░░░░░░░░░░░   30.07 % 
+Bash         19 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.14 % 
 ```
 <!--END_SECTION:waka-->
 

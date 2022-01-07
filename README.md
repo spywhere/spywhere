@@ -40,8 +40,8 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Bash   2 hrs 2 mins    ███████████████████████▓░   94.21 % 
-YAML   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Bash   1 hr 2 mins     ██████████████████████▒░░   89.22 % 
+YAML   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 ```
 <!--END_SECTION:waka-->
 

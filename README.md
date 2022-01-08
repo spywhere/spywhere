@@ -40,8 +40,11 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Bash   1 hr 2 mins     ██████████████████████▒░░   89.22 % 
-YAML   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+C#           2 hrs 26 mins   ███████████████░░░░░░░░░░   60.17 % 
+Bash         1 hr 2 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.57 % 
+TypeScript   25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+YAML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Diff         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 <!--END_SECTION:waka-->
 

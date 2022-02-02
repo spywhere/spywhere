@@ -40,8 +40,10 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Lua        7 hrs 51 mins   ████████████████████████▓   98.38 % 
-pico8      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Lua          19 hrs 33 mins  ███████████████████████▓░   95.01 % 
+Markdown     40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+pico8        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Git          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 <!--END_SECTION:waka-->
 

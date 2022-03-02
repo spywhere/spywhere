@@ -41,8 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#               15 mins         ███████████████░░░░░░░░░░   60.10 %
-Other            5 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.25 %
+GitIgnore file   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

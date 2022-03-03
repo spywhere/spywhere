@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-GitIgnore file   0 secs          █████████████████████████   100.00 %
+SQL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

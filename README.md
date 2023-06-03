@@ -40,10 +40,10 @@
 **This week I spent my time on**
 <!--START_SECTION:waka-->
 
-```text
-Text         2 hrs 58 mins   ███████████████████▓░░░░░   78.23 %
-TypeScript   49 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
-sh           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+```txt
+Text         4 hrs 11 mins   █████████████████▓░░░░░░░   71.02 %
+TypeScript   1 hr 42 mins    ███████▒░░░░░░░░░░░░░░░░░   28.84 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->

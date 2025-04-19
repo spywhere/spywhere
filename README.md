@@ -11,10 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   7 mins          ████████████░░░░░░░░░░░░░   48.22 %
-TOML   5 mins          ████████▓░░░░░░░░░░░░░░░░   34.19 %
-YAML   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-sh     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -11,11 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   41 mins         ███████████████░░░░░░░░░░   60.03 %
-Python       21 mins         ███████▓░░░░░░░░░░░░░░░░░   30.38 %
-conf         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-Swift        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

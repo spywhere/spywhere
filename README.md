@@ -11,11 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         1 hr 31 mins    ███████████████████▒░░░░░   77.86 %
-Swift        11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
-gitignore    8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-gitrebase    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
